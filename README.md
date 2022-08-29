@@ -7,7 +7,7 @@ This is a slightly refactored version of the original code by Harry Jubb. Main c
 * Support for mmCIF format to process also larger structures.
 * Results in JSON format.
 * Few bug fixes
-
+****The Main Changes made to this file was to update the interactions.py file using the lines of code from https://github.com/PDBeurope/arpeggio/issues/4
 # Outline
 
 Arpeggio calculates interatomic contacts based on the rules defined in [CREDO](http://marid.bioc.cam.ac.uk/credo). The program is freely available and requires only Open Source dependencies.
